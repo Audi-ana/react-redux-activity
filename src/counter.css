@@ -1,0 +1,29 @@
+.counter{
+    background-color: rgba(2, 24, 20, 0.253);
+    padding: 5%;
+    margin-top: 15%;
+    margin-right: 30%;
+    margin-left: 30%
+}
+
+h1{
+    text-align: center;
+}
+
+.buttonContainer{
+    text-align: center;
+}
+
+button{
+    background: #279997;
+    margin-right: 3%;
+    box-shadow: 6px 5px 24px #585858;
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    border: none;
+}
+
+button:hover{
+    background-color: rgba(68, 184, 184, 0.692);
+}
